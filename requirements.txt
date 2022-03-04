@@ -116,7 +116,7 @@ queuelib==1.6.2
     # via
     #   -r requirements.in
     #   scrapy
-scrapy==2.5.1
+scrapy==2.6.0
     # via -r requirements.in
 service-identity==21.1.0
     # via

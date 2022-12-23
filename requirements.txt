@@ -146,7 +146,7 @@ w3lib==1.22.0
     #   itemloaders
     #   parsel
     #   scrapy
-wheel==0.37.0
+wheel==0.38.0
     # via pip-tools
 zope.interface==5.4.0
     # via
@@ -157,3 +157,4 @@ zope.interface==5.4.0
 # The following packages are considered to be unsafe in a requirements file:
 # pip
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability

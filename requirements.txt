@@ -23,7 +23,7 @@ constantly==15.1.0
     # via
     #   -r requirements.in
     #   twisted
-cryptography==35.0.0
+cryptography==41.0.4
     # via
     #   pyopenssl
     #   scrapy

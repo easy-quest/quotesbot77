@@ -50,7 +50,7 @@ hyperlink==21.0.0
     # via
     #   -r requirements.in
     #   twisted
-idna==3.3
+idna==3.7
     # via hyperlink
 incremental==21.3.0
     # via

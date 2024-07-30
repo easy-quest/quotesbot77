@@ -134,7 +134,7 @@ tomli==1.2.2
     # via
     #   -r requirements.in
     #   pep517
-twisted[http2]==21.7.0
+twisted==24.7.0rc1
     # via
     #   -r requirements.in
     #   scrapy
